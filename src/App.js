@@ -13,7 +13,7 @@ import { BsCloudHaze2Fill, BsCloudDrizzelFill, BsEye, BsWater, BsThermometer, Bs
 import { ImSpinner8 } from 'react-icons/im';
 
 // process.env.WEATHER_API_KEY
-const APIkey = '8c8e67618cb9645a9267a6de1e1e72a0';
+const APIkey = 'use_your_open_weather_apikey';
 
 const App = () => {
 
